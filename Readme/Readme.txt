@@ -76,18 +76,6 @@ This dashboard simulates a real-world video rental business environment and demo
 - Measure revenue contribution by product
 - Support strategic decision-making through KPIs
 
----
-
-## 📸 Dashboard Preview
-
-> Add your screenshots here:
-
-- Executive KPI Overview  
-- Movies by Rating Chart  
-- Top 5 Films by Rentals  
-- Revenue by Film  
-
----
 
 ## 🚀 Future Improvements
 
@@ -101,7 +89,7 @@ This dashboard simulates a real-world video rental business environment and demo
 
 ## 📌 Author
 
-Ibrahim Lwanga  
+Ibrahim Yusf Lwawuga  
 Aspiring Data Analyst | BI Enthusiast  
 Skills: SQL, PostgreSQL, Metabase, Data Visualization
 
